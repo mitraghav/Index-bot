@@ -2,10 +2,10 @@
   "name": "rk-darinda-bot",
   "version": "1.0.0",
   "description": "Messenger bot using ws3-fca with Express dashboard",
-  "main": "index-25.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node index-25.js",
-    "dev": "nodemon index-25.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "bot",
